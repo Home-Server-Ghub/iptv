@@ -16,12 +16,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 - ⚖ [Legal](#legal)
 - © [License](#license)
 
-## How to use?
-
-Simply paste the link to one of the playlists into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
-
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
-
 ## Playlists
 
 The main playlist containing all channels available in the repository can be found at:
@@ -40,35 +34,10 @@ Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
 
 All channel data is taken from the [iptv-org/database](https://github.com/iptv-org/database) repository. If you find any errors please open a new [issue](https://github.com/iptv-org/database/issues) there.
 
-## API
-
-The API documentation can be found in the [iptv-org/api](https://github.com/iptv-org/api) repository.
 
 ## Resources
 
 Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
-
-## Discussions
-
-If you have a question or idea, welcome to the [Discussions](https://github.com/orgs/iptv-org/discussions).
-
-## FAQ
-
-The answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file.
-
-## Contribution
-
-Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
-
-And thank you to everyone who has already contributed!
-
-### Backers
-
-<a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/iptv-org/backers.svg?width=890" /></a>
-
-### Contributors
-
-<a href="https://github.com/iptv-org/iptv/graphs/contributors"><img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
 
 ## Legal
 
@@ -77,3 +46,4 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
