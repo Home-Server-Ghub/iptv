@@ -1,92 +1,29 @@
 #EXTM3U
 # ===== US CHANNELS =====
-#EXTM3U
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="AccessNashua.us@SD",Access Nashua
-https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AccessVisionChannel16.us@SD",AccessVision Channel 16
-https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AccessVisionChannel17.us@SD",AccessVision Channel 17
-https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ACLTV.us@SD",ACL Cornhole TV
-https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
-#EXTINF:-1 tvg-id="ACTV.us@SD",ACTV
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="AfroLandTV.us@SD",AfroLand TV
-https://alt-al.otteravision.com/alt/al/al.m3u8
-#EXTINF:-1 tvg-id="Akaku53.us@SD",Akaku 53 (Hawaii)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="Akaku54.us@SD",Akaku 54 (Hawaii)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="Akaku55.us@SD",Akaku 55 (Hawaii)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-#EXTINF:-1 tvg-id="AKCTV.us@SD",AKC TV
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD",AKC TV Meet The Breeds
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD",AKC TV Puppies 24/7
-https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us@EastHD",AMC
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AmericasVoice.us@SD",America's Voice
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-id="AMGTV.us@SD",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
-https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us@SD",Beach TV Florida & Alabama
 https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BEKNews.us@SD",BEK TV News
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BizTV.us@SD",Biz TV
-https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV US
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="Create.us@SD",Create (PBS)
-https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="EntertainmentTonight.us@SD",Entertainment Tonight
-https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1 tvg-id="Grit.us@SD",Grit
-https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us@SD",Great American Family
-https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
-#EXTINF:-1 tvg-id="LLBNHisWord.us@SD",Lighting Lives Blessing Nations His Word (LLBN)
-https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
-#EXTINF:-1 tvg-id="SmartLifeStyleTV.us@SD",Lighting Lives Blessing Nations Smart Life Style TV (LLBN)
-https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
-#EXTINF:-1 tvg-id="LittleGuyanaTV.us@SD",Little Guyana TV
-https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us@SD",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-id="LivingFaithTV.us@SD",Living Faith TV
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-#EXTINF:-1 tvg-id="LogosTVEnglish.us@SD",Logos TV English
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveWorld USA",LoveWorld USA
-https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="LPTV.us@SD",LPTV
-https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia1/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us@SD",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us@UK",Mythbusters
@@ -95,72 +32,36 @@ https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 tvg-id="NBCLX.us@SD",NBCLX
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us@SD",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OANPlus.us@SD",OANPlus
-https://oan-plus-tcl.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD",CBS News Bay Area (720p)
-https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBoston.us@SD",CBS News Boston (720p)
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsChicago.us@SD",CBS News Chicago (720p)
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsColorado.us@SD",CBS News Colorado (720p)
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us@SD",CBS News Los Angeles (720p)
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMiami.us@SD",CBS News Miami (720p)
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMiami.us@SD",CBS News Miami (720p)
-https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMinnesota.us@SD",CBS News Minnesota (720p)
-https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD",CBS News New York (720p)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPhilly.us@SD",CBS News Philadelphia (720p)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD",CBS News Pittsburgh (720p)
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD",CBS News Sacramento (720p)
-https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 tvg-id="",CBS News Texas (720p)
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD",California Music Channel
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US",Nosey
 https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="QwestTV.fr@SD",QwestTV
-https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us@US",Tastemade
 https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us@SD",Tastemade Travel
 https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HardKnocks.ca@SD",Hard Knocks (1080p) [Not 24/7]
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-id="HumorMill.us@SD",Humor Mill (1080p) [Not 24/7]
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
-#EXTINF:-1 tvg-id="Newsmax2.us@SD",Newsmax 2 (720p)
-https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="TDAmeritradeNetwork.us@SD",TD Ameritrade Network (1080p)
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
+#EXTINF:-1 tvg-id="HardKnocks.ca@SD",Hard Knocks (1080p) [Not 24/7]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip (1080p) [Geo-blocked]
 https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US",BBC Earth (1080p) [Geo-blocked]
-https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",BBC Top Gear (1080p) [Geo-blocked]
 https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",BeIN Sports XTRA (1080p)
@@ -169,22 +70,16 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Dungeons & Dragons Adventures (1080p) [Geo-blocked]
 https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",FGTEEV (1080p) [Geo-blocked]
-https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.at@SD",Fuel TV (1080p) [Geo-blocked]
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.us@SD",INFAST (1080p) [Geo-blocked]
 https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",INTRAVEL (1080p) [Geo-blocked]
-https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWild.it@SD",INWILD (1080p) [Geo-blocked]
 https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV
-https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider
 https://pac12-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD",PBS Nature (1080p) [Geo-blocked]
@@ -197,23 +92,285 @@ https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Team USA (1080p)
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheYoungTurks.us@SD",The Young Turks (1080p) [Geo-blocked]
-https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Transformers (1080p) [Geo-blocked]
 https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",True Crime Network+ (1080p) [Geo-blocked]
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",TV Blossom (1080p)
-https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViceNews.us@SD",Vice News (1080p)
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VICETV.us@SD",Vice TV (1080p)
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WaypointTV.us@SD",Waypoint TV (1080p)
-https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Willow Sports (1080p) [Geo-blocked]
-https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo Finance (1080p) [Geo-blocked]
 https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Crime & Justice [Geo-blocked]
+https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us@SD",Pursuit UP (720p)
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="",Real Disaster Channel [Geo-blocked]
+https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD",Trace Latina
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueHistory.us@SD",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="",Action Hollywood Movies (720p) [Geo-blocked]
+https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (720p) [Geo-blocked]
+https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads TV (720p)
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East",Game Show Network East (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="",MilitaryTimes (720p) [Geo-blocked]
+https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America East
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD",Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East",E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East",Free form East
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us@East",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistory.us@SD",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East",MTV East
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="Much.ca@SD",Much (720p)
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="PopTV.us@SD",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime East
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next East
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (1080p)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@East",Starz East
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us@East",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us@East",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="AFV.us@SD",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Choppertown.us@SD",Choppertown (720p) [Not 24/7]
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="",00s Replay
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+#EXTINF:-1 tvg-id="AnimeAllDay.us@US",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+#EXTINF:-1 tvg-id="BarRescue.us@SD",Bar Rescue
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=257eaf62-d268-45a0-8abf-fe20817952f9
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US",Comedy Central Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
+#EXTINF:-1 tvg-id="Cops.us@SD",Cops
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a
+#EXTINF:-1 tvg-id="",Criminal Minds
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b
+#EXTINF:-1 tvg-id="",Crunchyroll
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
+#EXTINF:-1 tvg-id="CSI.us@SD",CSI
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285530-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e46fc93-9eb8-4999-b20e-4600002dd255
+#EXTINF:-1 tvg-id="",CSI: Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c11b3af68000702c304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285533-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=44c18303-2238-4f6c-aa15-2480de9dd1a8
+#EXTINF:-1 tvg-id="",CSI: NY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca19e89b-4eb2-4f32-b300-8e26501d6dd2
+#EXTINF:-1 tvg-id="FailArmy.us@US",FailArmy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c35f867b-7463-4560-8d61-09b18127126b
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Forensic Files
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=859d292d-044e-4dc8-b889-003fa718d02e
+#EXTINF:-1 tvg-id="FunnyAF.us@SD",Funny AF
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
+#EXTINF:-1 tvg-id="GameShowCentral.us@SD",Game Show Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f175-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9ee0129e-a216-405f-b055-21379b2d05c4
+#EXTINF:-1 tvg-id="GarfieldandFriends.us@US",Garfield and Friends
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
+#EXTINF:-1 tvg-id="GhostHunters.us@US",Ghost Hunters
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD",Gordon Ramsay's Hell's Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291882-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7ee55eb-3425-4f5e-a567-3a1ed6ca44ec
+#EXTINF:-1 tvg-id="JerseyShore.us@SD",Jersey Shore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
+#EXTINF:-1 tvg-id="LEGOKidsTV.us@SD",LEGO Kids TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
+#EXTINF:-1 tvg-id="MonsterJam.pl@US",Monster Jam
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959
+#EXTINF:-1 tvg-id="MovieSphere.us@SD",MovieSphere by Lionsgate
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD",Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@US",Pluto TV Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@US",Pluto TV Paranormal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1455-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6d0c5d3-d3a3-4e4b-acd3-5b277ebb8723
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed62db1c-5556-4fa7-b231-9514fcc69832
+#EXTINF:-1 tvg-id="PlutoTVScience.us@US",Pluto TV Science
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7
+#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us@SD",Pluto TV Staff Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
+#EXTINF:-1 tvg-id="PlutoTVTerror.us@SD",Pluto TV Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@US",Pluto TV Thrillers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@US",Pluto TV True Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6270-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e2e43d4-4547-47dd-9325-2c583c9314b2
+#EXTINF:-1 tvg-id="PlutoTVPokemon.us@SD",Pokémon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
+#EXTINF:-1 tvg-id="",Real Housewives Vault
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549316d2c1d330008631496/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b627a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=848484a3-f7c4-4cf7-a5dc-4fc9d5658a8e
+#EXTINF:-1 tvg-id="StarTrek.us@SD",Star Trek
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5
+#EXTINF:-1 tvg-id="Survivor.us@SD",Survivor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a
+#EXTINF:-1 tvg-id="TheAddamsFamily.us@SD",The Addams Family
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
+#EXTINF:-1 tvg-id="TheAmazingRace.us@SD",The Amazing Race
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD",The Andy Griffith Show
+#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD",The Bob Ross Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67b3f09b-b46d-493c-a79b-5e9dd0300954
+#EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD",The Judge Judy Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ff2c99b-7400-4062-9fa7-4705ef8ac8e2
+#EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD",The Twilight Zone
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67352ed93a61d4000881f9fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a782-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=02a62904-a852-11f0-88b2-b2f52acde718
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD",The Walking Dead Universe
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636adc255bcf470007d6e0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53184ebc-5f69-44c0-bf0c-94707d648913
+#EXTINF:-1 tvg-id="Tosh0.us@SD",Tosh.0
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86
+#EXTINF:-1 tvg-id="TotallyTurtles.us@US",Totally Turtles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339
+#EXTINF:-1 tvg-id="",Tough Jobs
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bf23ef47d0008583967/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d528c1a-18fe-40ef-bdaa-cfc0e490b48f
+#EXTINF:-1 tvg-id="WildNOut.us@SD",Wild 'N Out
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3730-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a03cd523-0223-48b3-aeb7-ce7ca6c2de02
+#EXTINF:-1 tvg-id="YoMTV.us@SD",Yo! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+#EXTINF:-1 tvg-id="Baywatch.us@US",Baywatch (1080p) [Geo-blocked]
+https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",BBC Doctor Who Classic (1080p)
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Ice Road Truckers (1080p)
+https://3787c49a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3
+#EXTINF:-1 tvg-id="",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-id="",Alien Nation by DUST (1080p)
+https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
+#EXTINF:-1 tvg-id="",Dance Moms (1080p)
+https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.us@US",Duck Dynasty (1080p)
+https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
+#EXTINF:-1 tvg-id="",Family Feud (720p)
+https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8
+#EXTINF:-1 tvg-id="",The Biggest Loser (1080p)
+https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8
+#EXTINF:-1 tvg-id="",The Masked Singer (720p)
+https://aegis-cloudfront-1.tubi.video/af138c2c-c4f2-49f7-88d7-64eeabbad414/index.m3u8
+#EXTINF:-1 tvg-id="",UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-id="",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="",BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 tvg-id="",Dog Whisperer with Cesar Millan [Geo-blocked]
+https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
